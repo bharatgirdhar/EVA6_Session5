@@ -2,6 +2,7 @@
 ## Problem Statement - 
 ### Hit 99.4 Accuracy more than once in 15 EPOCS or Less with less than 10k parameters using MNIST dataset.
 
+
 ## Basic Skeleton with Batch Normalization, Regularization and Global Average Pooling
 
 <a href="https://github.com/bharatgirdhar/EVA6_Session5/blob/main/EVA6_Session_5_Assigment_99_4.ipynb" target="_blank">Code - 1</a>
