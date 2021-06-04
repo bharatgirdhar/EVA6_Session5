@@ -2,6 +2,11 @@
 ## Problem Statement - 
 ### Hit 99.4 Accuracy more than once in 15 EPOCS or Less with less than 10k parameters using MNIST dataset.
 
+<br>
+<br>
+
+## Solutioning - 
+### 3 Step Arroach
 
 ## Basic Skeleton with Batch Normalization, Regularization and Global Average Pooling
 
